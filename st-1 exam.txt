@@ -1,0 +1,83 @@
+<!DOCTYPE.HTML
+<html lang ='en'
+<head>
+     <tittle>e-commerce webpage </tittle>
+</head>
+< body bigcolour ="#f2f2f2">
+<!DOCTYPE html>
+<html>
+<head>
+  <title>E-Commerce Web Page</title>
+</head>
+<body bgcolor="#f2f2f2">
+
+  <!-- Navigation Bar --><!DOCTYPE html>
+<html>
+<head>
+  <title>E-Commerce Web Page</title>
+</head>
+<body bgcolor="#f2f2f2">
+
+  <!-- Navigation Bar -->
+  <table border="0" width="100%" bgcolor="#333" cellpadding="10">
+    <tr align="center">
+      <td><a href="#home" style="color:white; text-decoration:none;">Home</a></td>
+      <td><a href="#products" style="color:white; text-decoration:none;">Products</a></td>
+      <td><a href="#offers" style="color:white; text-decoration:none;">Offers</a></td>
+      <td><a href="#contact" style="color:white; text-decoration:none;">Contact Us</a></td>
+    </tr>
+  </table>
+
+  <!-- Home Section -->
+  <h1 align="center" id="home">Welcome to ShopSmart</h1>
+  <p align="center">Your one-stop shop for electronics, fashion, and more!</p>
+
+  <hr>
+
+  <!-- Multimedia (Image) -->
+  <h2 id="products">Our Featured Product</h2>
+  <img src="https://via.placeholder.com/400x250" alt="Product Image" width="400" height="250">
+
+  <p>Get the latest gadgets at amazing prices. Explore our exclusive collection now!</p>
+
+  <!-- Multimedia (Audio) -->
+  <h3>Listen to our Product Ad</h3>
+  <audio controls>
+    <source src="https://www.w3schools.com/html/horse.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+  </audio>
+
+  <!-- Multimedia (Video) -->
+  <h3>Product Demo Video</h3>
+  <video width="400" controls>
+    <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+    Your browser does not support HTML video.
+  </video>
+
+  <!-- YouTube Video Hyperlink -->
+  <h3>Watch More on YouTube</h3>
+  <p>Click below to watch our latest offers and product demos:</p>
+  <a href="https://www.youtube.com/watch?v=ysz5S6PUM-U" target="_blank">Watch on YouTube</a>
+
+  <hr>
+
+  <!-- Contact Section -->
+  <h2 id="contact">Contact Us</h2>
+  <p>Email: support@shopsmart.com</p>
+  <p>Phone: +91-9876543210</p>
+
+  <footer align="center">
+    <p>&copy; 2025 ShopSmart E-Commerce Website</p>
+  </footer>
+
+</body>
+</html>
+  <table border="0" width="100%" bgcolor="#333" cellpadding="10">
+    <tr align="center">
+      <td><a href="#home" style="color:white; text-decoration:none;">Home</a></td>
+      <td><a href="#products" style="color:white; text-decoration:none;">Products</a></td>
+      <td><a href="#offers" style="color:white; text-decoration:none;">Offers</a></td>
+      <td><a href="#contact" style="color:white; text-decoration:none;">Contact Us</a></td>
+    </tr>
+  </table>
+.
